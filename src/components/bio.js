@@ -3,7 +3,6 @@
  */
 
 import React from 'react';
-import { InlineMath } from 'react-katex';
 
 function Bio () {
   return (

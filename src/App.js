@@ -9,7 +9,7 @@ function App () {
         tiles={[
           {
             object: PROJECTS_DATA['omega3'],
-            width: 2
+            width: 4
           },
           {
             object: PROJECTS_DATA['marco'],
@@ -25,7 +25,7 @@ function App () {
           },
           {
             object: PROJECTS_DATA['bomb_defuser'],
-            width: 2
+            width: 1
           }
         ]}
       />

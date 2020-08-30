@@ -1,0 +1,39 @@
+{
+  "omega3": {
+    "name": "Omega^3",
+    "description": "Real-time visualization of a neural network",
+    "img" : [
+      "https://live.staticflickr.com/65535/50283785393_fce7f619da_b.jpg"
+    ]
+  },
+  "marco": {
+    "name": "Marco",
+    "description": "Technical analysis for crypto",
+    "img" : [
+      "https://live.staticflickr.com/65535/50284705607_7df45a0ecf_b.jpg"
+    ]
+  },
+  "100_proof": {
+    "name": "100-Proof",
+    "description": "Automated drink maker",
+    "img" : [
+      "https://live.staticflickr.com/65535/50284617142_b3ae7d8db4_b.jpg"
+    ]
+  },
+  "bomb_defuser": {
+    "name": "Bomb Defuser",
+    "description": "Physical version of Don't Talk and Nobody Explodes",
+    "img" : [
+      "https://live.staticflickr.com/65535/50284465581_b235c13a9b_b.jpg"
+    ]
+  },
+  "osu": {
+    "name": "osu! box",
+    "description": "Arcade box to play osu! taiko",
+    "img" : [
+      "https://live.staticflickr.com/65535/50284705157_a9657fe39f_b.jpg"
+    ]
+  }
+
+
+}

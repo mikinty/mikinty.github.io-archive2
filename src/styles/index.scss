@@ -1,3 +1,14 @@
 /**
  * Major and common styles
  */
+
+html, body {
+  margin: 0;
+}
+
+.main {
+  margin: 4px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

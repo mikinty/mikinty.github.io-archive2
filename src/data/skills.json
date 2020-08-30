@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Hardware",
+    "description": "Soldering, hacking stuff together",
+    "tools": [
+      "3D Printing",
+      "Arduino",
+      "Assembly",
+      "Laser Cutting",
+      "Raspberry Pi",
+      "System Verilog"
+    ]
+  },
+  {
+    "title": "General",
+    "description": "Produce software and digital products",
+    "tools": [
+      "Python",
+      "C",
+      "Javascript",
+      "LaTeX"
+    ]
+  },
+  {
+    "title": "Web Dev",
+    "description": "Building web experiences",
+    "tools": [
+      "webpack",
+      "react",
+      "d3",
+      "sass",
+      "node.js",
+      "chrome ext"
+    ]
+  }
+]

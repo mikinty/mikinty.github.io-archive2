@@ -3,8 +3,13 @@
  */
 
 // Main parts
-@import './index.scss';
 @import './constants.scss';
+@import './index.scss';
 
 // Components
-@import './components/tiles.scss'
+@import './components/bio.scss';
+@import './components/contact.scss';
+@import './components/header.scss';
+@import './components/navbar.scss';
+@import './components/skills.scss';
+@import './components/tiles.scss';

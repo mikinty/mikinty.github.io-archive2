@@ -1,6 +1,6 @@
 /**
- * Major and common styles
- */
+* Major and common styles
+*/
 
 html, body {
   margin: 0;
@@ -11,12 +11,12 @@ html, body {
   }
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
+
+  // Fonts
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
-
-
 .main {
-  margin: 4px;
   display: flex;
   flex-direction: column;
   height: 100vh;

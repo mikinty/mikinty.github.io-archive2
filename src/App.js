@@ -1,15 +1,26 @@
 import React from 'react';
-import { TileRow, Tile } from './components/tiles';
+import { Bio } from './components/bio';
+import { Contact } from './components/contact';
+import { SectionHeader } from './components/header';
+import { Navbar } from './components/navbar';
+import { Skills } from './components/skills';
+import { TileRow } from './components/tiles';
 import PROJECTS_DATA from './data/projects.json';
 
 function App () {
   return (
-    <div className="main">
+    <div className='main'>
+      <Navbar />
+      <Bio />
+      <SectionHeader
+        name='Work'
+        color='#a366f2'
+      />
       <TileRow
         tiles={[
           {
             object: PROJECTS_DATA['omega3'],
-            width: 4
+            width: 3
           },
           {
             object: PROJECTS_DATA['marco'],
@@ -37,6 +48,12 @@ function App () {
           }
         ]}
       />
+      <SectionHeader
+        name='Skills'
+        color='#a366f2'
+      />
+      <Skills />
+      <Contact />
     </div>
   )
 }

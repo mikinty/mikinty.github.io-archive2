@@ -14,6 +14,12 @@
     align-items: center;
     overflow: hidden;
     margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+
+    &:hover {
+      opacity: 0.9;
+    }
 
     img {
       flex-shrink: 0;

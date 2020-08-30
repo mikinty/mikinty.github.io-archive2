@@ -1,6 +1,9 @@
 # Don't want to commit image files
 assets/
 
+# Ignore build files
+build/
+
 # Logs
 logs
 *.log

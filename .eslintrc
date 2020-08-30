@@ -1,0 +1,21 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "airbnb"
+  ],
+  "rules": {
+    "indent": ["error", 2],
+    "semi": "error",
+    "quotes": ["error", "single"],
+    "comma-spacing": "error"
+  }
+}
